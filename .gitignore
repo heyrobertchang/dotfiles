@@ -1,0 +1,11 @@
+# Secrets — never commit (gh regenerates on reinstall; holds OAuth token)
+gh/
+
+# Tool-generated / regenerable
+uv/
+configstore/
+raycast/
+.DS_Store
+
+# Session scratch
+CLEANUP_PLAN.md
